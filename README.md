@@ -19,7 +19,7 @@ Full stack microservice for displaying popular dishes of the restaurant
 
 - Node 12.x
 
-### Installing-Dependencies
+## Installing-Dependencies
 
 From within the root directory run the following in your terminal:
 >*Install dependencies*

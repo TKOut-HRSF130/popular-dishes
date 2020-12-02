@@ -8,11 +8,12 @@ Full stack microservice for displaying popular dishes of the restaurant
   - Photogallery: https://github.com/TKOut-HRSF130/photos-carousel-service
   - Calendar: https://github.com/TKOut-HRSF130/bookings-service
   - Reviews https://github.com/TKOut-HRSF130/reviews-service
-
+---
 ## Table of Contents
 
 1. [Requirements](#requirements)
 2. [Installing-Dependencies](#Installing-Dependencies)
+3. [Tech-Stack](#Tech-Stack)
 
 ## Requirements
 
@@ -30,7 +31,7 @@ npm install
 npm start
 ```
 Open `http://localhost:3001`
-```
+
 ## Tech-Stack
 - [Node.js](https://nodejs.org)
 - [Express](http://expressjs.com/)

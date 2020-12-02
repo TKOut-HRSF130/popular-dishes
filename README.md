@@ -1,38 +1,39 @@
 # Project Name
-TKOut, popular-dishes service module
+TKOut, popular-dishes microservice
 
-Full stack module for displaying popular dishes of the restaurant
+Full stack microservice for displaying popular dishes of the restaurant
 
 ## Related Projects
 
-  - Billy: https://github.com/TKOut-HRSF130/photos-carousel-service
-  - Jonny: https://github.com/TKOut-HRSF130/bookings-service
-  - Mataeux https://github.com/TKOut-HRSF130/reviews-service
+  - Photogallery: https://github.com/TKOut-HRSF130/photos-carousel-service
+  - Calendar: https://github.com/TKOut-HRSF130/bookings-service
+  - Reviews https://github.com/TKOut-HRSF130/reviews-service
 
 ## Table of Contents
 
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
+2. [Installing-Dependencies](#Installing-Dependencies)
 
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
+- Node 12.x
 
-- Node 6.13.0
-- etc
+### Installing-Dependencies
 
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
+From within the root directory run the following in your terminal:
+>*Install dependencies*
+```
 npm install
 ```
+>*Start the server*
+```
+npm start
+```
+Open `http://localhost:3001`
+```
+## Tech-Stack
+- [Node.js](https://nodejs.org)
+- [Express](http://expressjs.com/)
+- [React](https://reactjs.org/)
+- [MySQL](https://www.mysql.com/)
+- [Docker](https://www.docker.com/)
